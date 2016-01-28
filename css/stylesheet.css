@@ -21,7 +21,7 @@ body{
 .fontface{
     font-family: helvetica;
     text-align: left;
-    text-size: 8px;
+    font-size: 8px;
 }
 .white-text{
     color: #d3d3d3;
